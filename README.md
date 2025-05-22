@@ -7,7 +7,6 @@
 
 ```bash
 git clone https://github.com/your-username/quotes-api.git
-cd quotes-api
 ```
 
 3. Запустите сервер:
